@@ -1,0 +1,74 @@
+{
+    "name": "王泽东",
+    "nickname": "口水鱼",
+    "born": "1989/08/08",
+    "gender": "男",
+    "marital-status": 1,
+    "phone": "183****0988",
+    "email": "woox.wzd@gmail.com",
+    "country": "中国",
+    "place": "成都",
+    "status": 1,
+    "occupational-intent": {
+
+    },
+    "companies": [
+        {
+            "title": "瀚思安信",
+            "date": "2017/09-至今",
+            "job-title": "高级前端开发",
+            "place": "成都",
+            "description": "负责模块开发;即时理解需求并沟通需求负责组建库的开发与维护对项目工程化架构的维护及改进",
+            "tags": ["大数据", "Angularjs"]
+        },
+        {
+            "title": "成都索贝数码",
+            "date": "2015/01-2017/09",
+            "job-title": "高级前端开发",
+            "place": "成都",
+            "description": "负责应用层的接口开发和 ui 层的开发;负责 web 生产平台各个模块组件开发;参与前端技术调研，框架选型，前端工程化自动化;搭建流水线相关基础设施",
+            "tags": ["React", "redux", "nodejs"]
+        },
+        {
+            "title": "成都汉科",
+            "date": "2015/01-2017/09",
+            "job-title": "H5开发",
+            "place": "成都",
+            "description": "开发 pc 端 web 应用，开发微信 h5 页面",
+            "tags": ["css3", "html5"]
+        }
+    ],
+    "education": [
+        {
+            "title": "电子科技大学",
+            "discipline": "软件工程",
+            "degree": "学士"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Hansight ENT 全场景安全智能平台",
+            "date": "2017/09-至今",
+            "job-title": "高级前端开发",
+            "description": "",
+            "responsibility": "负责参与前端架构升级;负责前端功能开发，业务组件库的完善;需求的沟通及项目排期;完善相关技术文档",
+            "performance": "项目重构工作在预期时间内如期上线;重构让开发人员职责更清晰，更专注;项目迁移成本低"
+        },
+        {
+            "title": "Hansight NTA",
+            "date": "2018/03-至今",
+            "job-title": "高级前端开发",
+            "description": "",
+            "responsibility": "负责定制化需求整理及开发",
+            "performance": "优化工程化实践，保质保量"
+        },
+        {
+            "title": "MCH 融魔方",
+            "date": "2016/08-2017/06",
+            "job-title": "高级前端开发",
+            "description": "",
+            "responsibility": "把控和沟通需求;参与前端架构设计,框架选型，制定编码规范，团队管理",
+            "performance": ""
+        }
+    ]
+}
